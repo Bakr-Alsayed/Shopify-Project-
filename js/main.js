@@ -126,7 +126,7 @@ function UPdate_cart() {
                                 </div>
                             </div>
 
-                            <button class="delet_item"  data-index ="${index}"><i class="fa-solid fa-trash-can"></button>
+                            <button class="delet_item"  data-index ="${index}"><i class="fa-solid fa-trash-can"></i></button>
 
                         </div>
             
